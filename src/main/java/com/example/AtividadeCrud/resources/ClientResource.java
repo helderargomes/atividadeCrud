@@ -1,4 +1,4 @@
-package com.example.AtividadeCrud.resource;
+package com.example.AtividadeCrud.resources;
 
 import java.net.URI;
 
